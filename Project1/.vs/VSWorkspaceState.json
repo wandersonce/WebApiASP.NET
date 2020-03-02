@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplication1",
+    "\\WebApplication1\\WebApplication1",
+    "\\WebApplication1\\WebApplication1\\App_Data",
+    "\\WebApplication1\\WebApplication1\\Controllers",
+    "\\WebApplication1\\WebApplication1\\Models",
+    "\\WebApp\\WebApp\\bin",
+    "\\WebApp\\WebApp\\bin\\Debug"
+  ],
+  "SelectedNode": "\\WebApplication1\\WebApplication1\\Models\\Aluno.cs",
+  "PreviewInSolutionExplorer": false
+}
